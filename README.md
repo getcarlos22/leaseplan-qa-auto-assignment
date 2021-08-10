@@ -19,3 +19,12 @@ The project is built with the following:
 ##### tested on:
 * os : windows 10
 * Maven 3.6.3
+
+To run specific checks use cucumber tags feature 
+```bash
+## to run all scenarios
+mvn clean verify -Dcucumber.filter.tags="@End2End" 
+
+## to run individual feature based scenarios
+mvn clean verify -Dcucumber.filter.tags="@Id=1.1" 
+```
