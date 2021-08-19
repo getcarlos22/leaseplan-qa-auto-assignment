@@ -1,4 +1,4 @@
-# leaseplan-qa-auto-assignment
+# qa-auto-assignment
 [![CircleCI](https://circleci.com/gh/getcarlos22/leaseplan-qa-auto-assignment.svg?style=svg)](https://circleci.com/gh/getcarlos22/leaseplan-qa-auto-assignment)
 
 ##### About:
