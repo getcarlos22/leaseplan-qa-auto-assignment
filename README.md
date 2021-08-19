@@ -1,5 +1,5 @@
 # qa-auto-assignment
-[![CircleCI](https://circleci.com/gh/getcarlos22/leaseplan-qa-auto-assignment.svg?style=svg)](https://circleci.com/gh/getcarlos22/leaseplan-qa-auto-assignment)
+[![CircleCI](https://circleci.com/gh/getcarlos22/qa-auto-assignment.svg?style=svg)](https://circleci.com/gh/getcarlos22/qa-auto-assignment)
 
 ##### About:
 REST API-testing in Java for website : http://api.weatherstack.com
